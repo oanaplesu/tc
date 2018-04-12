@@ -1,0 +1,5 @@
+int a = 3;
+/* comment */
+
+b = a + 5;
+ "ana are mere"
